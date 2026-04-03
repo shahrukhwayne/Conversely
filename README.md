@@ -44,8 +44,8 @@ https://fakestoreapiserver.reactbd.org/api/products
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
+git clone https://github.com/shahrukhwayne/Conversely.git
+cd Conversely
 npm install
 npm run dev
 ```
@@ -54,13 +54,13 @@ npm run dev
 
 ## 📸 Demo
 
-Live Link: https://your-project.vercel.app
+Live Link: https://conversely-seven.vercel.app/
 
 ---
 
 ## 🎥 Video Demo
 
-(Attach your video link here)
+Video Link : https://drive.google.com/file/d/1PxO_nI6zZBLi-lEBrdSrk232gZWdTaov/view?usp=sharing
 
 ---
 
