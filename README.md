@@ -60,8 +60,6 @@ Live Link: https://conversely-seven.vercel.app/
 
 ## 🎥 Video Demo
 
-Video Link : https://drive.google.com/file/d/1PxO_nI6zZBLi-lEBrdSrk232gZWdTaov/view?usp=sharing
-
 ---
 
 ## 📌 Key Decisions
